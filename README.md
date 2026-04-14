@@ -13,8 +13,6 @@
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Task Manager Preview](src/assets/task-manager_screenshot.png)
 
 <br />
@@ -165,9 +163,9 @@ Midnight-normalised comparison prevents false positives on the current day.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: https://github.com/ParikhSrujan
+- LinkedIn: https://www.linkedin.com/in/srujan-parikh-9a39222b1
+- Demo : sruutaskmanager.netlify.app
 
 <br />
 
