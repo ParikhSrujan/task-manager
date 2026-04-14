@@ -13,7 +13,9 @@
 
 ## 📸 Preview
 
-> _Add a screenshot here after running the app — drag an image into this section on GitHub_
+## 📸 Preview
+
+![Task Manager Preview](src/assets/task-manager_screenshot.png)
 
 <br />
 
